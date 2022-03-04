@@ -1,6 +1,6 @@
 # FlappyBird-Game
 - A simple Flappy Bird Game made with `C# & XAML (WPF)`
-- Every code is explained into on the source code
+- Every code is explained into the source code
 > No special libraries needed
 ---
 <p align="center">
