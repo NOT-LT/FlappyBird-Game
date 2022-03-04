@@ -1,0 +1,15 @@
+C:\Users\talja\Desktop\Developing\C#\UnCompleted Projects\FlappyBird\Source\bin\Release\FlappyBird.exe.config
+C:\Users\talja\Desktop\Developing\C#\UnCompleted Projects\FlappyBird\Source\bin\Release\FlappyBird.exe
+C:\Users\talja\Desktop\Developing\C#\UnCompleted Projects\FlappyBird\Source\bin\Release\FlappyBird.pdb
+C:\Users\talja\Desktop\Developing\C#\UnCompleted Projects\FlappyBird\Source\obj\Release\FlappyBird.csproj.AssemblyReference.cache
+C:\Users\talja\Desktop\Developing\C#\UnCompleted Projects\FlappyBird\Source\obj\Release\MainWindow.baml
+C:\Users\talja\Desktop\Developing\C#\UnCompleted Projects\FlappyBird\Source\obj\Release\MainWindow.g.cs
+C:\Users\talja\Desktop\Developing\C#\UnCompleted Projects\FlappyBird\Source\obj\Release\App.g.cs
+C:\Users\talja\Desktop\Developing\C#\UnCompleted Projects\FlappyBird\Source\obj\Release\FlappyBird_MarkupCompile.cache
+C:\Users\talja\Desktop\Developing\C#\UnCompleted Projects\FlappyBird\Source\obj\Release\FlappyBird.g.resources
+C:\Users\talja\Desktop\Developing\C#\UnCompleted Projects\FlappyBird\Source\obj\Release\FlappyBird.Properties.Resources.resources
+C:\Users\talja\Desktop\Developing\C#\UnCompleted Projects\FlappyBird\Source\obj\Release\FlappyBird.csproj.GenerateResource.cache
+C:\Users\talja\Desktop\Developing\C#\UnCompleted Projects\FlappyBird\Source\obj\Release\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\talja\Desktop\Developing\C#\UnCompleted Projects\FlappyBird\Source\obj\Release\FlappyBird.exe
+C:\Users\talja\Desktop\Developing\C#\UnCompleted Projects\FlappyBird\Source\obj\Release\FlappyBird.pdb
+C:\Users\talja\Desktop\Developing\C#\UnCompleted Projects\FlappyBird\Source\obj\Release\FlappyBird.csproj.SuggestedBindingRedirects.cache
