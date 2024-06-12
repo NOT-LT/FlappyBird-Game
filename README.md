@@ -4,5 +4,5 @@
 > No special libraries needed
 ---
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/766239803917729802/948879968044204042/Flappy_Bird.png" alt="drawing" height="400" width="660"/>
+  <img src="pic.png" alt="drawing" height="400" width="660"/>
 </p>
